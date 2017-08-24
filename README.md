@@ -1,2 +1,3 @@
-# zuendbuch
-Open Source Books
+# yaydoc artwork
+
+Artwork repsitory for the yaydoc project
